@@ -1,0 +1,4 @@
+names= ["Lily, "Max", "Ish", "Eva"]
+while True : 
+	if accelerometer.was_gesture('shake'): 
+		display.scroll(random.choice(names))
