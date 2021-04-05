@@ -1,7 +1,7 @@
 # MicrobitLab1
 Microbit programming with python. Kodoteket, Älmhult.
 # NOTE: You CANNOT program this code without a BBC microbit version 1
-# NOTE: Please make sure that you put tabs after every line dependin on what line you are writing
+# NOTE: Please make sure that you put tabs after every line depending on what line you are writing
 I have written the code in the format it has to be written, so when you are copying it to the python editor, please use my format.
 
 # How to make a random name picker ?
